@@ -1,9 +1,9 @@
 # n11 selenium web uygulaması
-JDK
-Maven
-Selenium WebDriver
-TestNG
-Page Object Model
+#### JDK
+#### Maven
+#### Selenium WebDriver
+#### TestNG
+#### Page Object Model
 
 Sistemi test edebilmek için kullanıcı adı ve parolayı güncelleyin.
 Driver yolunu güncelleyin.
